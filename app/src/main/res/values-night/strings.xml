@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_account_register_here">Register Here</string>
+    <string name="login_btn_text">Login</string>
+    <string name="email">Email</string>
+    <string name="contact_logo">Contact Logo</string>
+</resources>
